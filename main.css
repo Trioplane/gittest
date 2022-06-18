@@ -1,0 +1,6 @@
+.player {
+  position: absolute;
+  background-color: red;
+  width: 2em;
+  aspect-ratio: 1/1;
+}
